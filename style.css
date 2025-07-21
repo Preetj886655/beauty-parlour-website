@@ -1169,12 +1169,12 @@ footer .grid-three--cols{
     font-size: 2rem;
   }
  
-  .section-navbar .container::before {
+/*   .section-navbar .container::before {
     content: "☰";
     font-size: 3rem;
     cursor: pointer;
   }
-  
+   */
   .section-common-heading {
     font-size: 3rem;
   }
@@ -1233,7 +1233,7 @@ footer .grid-three--cols{
 /* Mobile Portrait */
 @media (max-width: 480px) {
   html {
-    font-size: 55%;
+    font-size: 45%;
   }
   
   .section-hero .hero-heading {
